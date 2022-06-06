@@ -1,0 +1,91 @@
+???
+사람
+자전거
+자동차
+motorcycle
+비행기
+버스
+기차
+트럭
+보트
+신호등
+fire hydrant
+???
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+???
+backpack
+umbrella
+???
+???
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+???
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+couch
+potted plant
+bed
+???
+dining table
+???
+???
+toilet
+???
+tv
+노트
+mouse
+remote
+키보드
+휴대전화
+전자레인지
+오븐
+toaster
+sink
+refrigerator
+???
+book
+clock
+vase
+scissors
+teddy bear
+hair drier
+toothbrush
